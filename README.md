@@ -11,17 +11,11 @@
 ## 👨‍💻 About Me
 
 🎓 BCA 3rd Year Student
-
 💻 Passionate Frontend Web Developer
-
 🌱 Currently learning **Redux**
-
 ⚛️ Basic knowledge of **React.js**
-
 🚀 Love creating Responsive & Modern Websites
-
 📚 Always improving my development skills
-
 🎯 Goal: Become a Professional Full Stack Developer
 
 ---
